@@ -1,0 +1,18 @@
+body{
+    background: cadetblue;
+}
+
+h1{
+    font-style:  normal;
+    text-align:  center;
+    color: white;
+}
+table{
+    background-color:     antiquewhite;
+    border-collapse:  collapse;
+}
+    
+thead{
+   align-content: center; 
+}
+
